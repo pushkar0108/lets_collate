@@ -1,0 +1,22 @@
+{
+  "name": "lets_collate",
+  "version": "1.0.0",
+  "description": "Testing tool to compare and test development",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushkar0108/lets_collate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushkar0108/lets_collate/issues"
+  },
+  "homepage": "https://github.com/pushkar0108/lets_collate#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.277.1"
+  }
+}
