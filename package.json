@@ -1,6 +1,6 @@
 {
   "name": "lets_collate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing tool to compare and test development",
   "main": "n",
   "scripts": {

@@ -3,10 +3,10 @@
 // Load the AWS SDK for Node.js
 const AwsSdk = require('aws-sdk');
 
-// Set the region 
+// Set the region and access credentials, use aws config instead
 AwsSdk.config.update({
-    accessKeyId: "AKIAJGYOODUT45OGGVDQ",
-    secretAccessKey: "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",
+    // accessKeyId: "xxxx",
+    // secretAccessKey: "xxxx",
     region: 'ap-south-1'
 });
 
